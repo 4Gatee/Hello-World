@@ -2,6 +2,8 @@ import java.io.File;
 
 class Main {
     public static void main(String[] args) {
+
+        //тестовый комментарий
         File file = new File("C");
 
         System.out.println("File name: " + file.getName());
